@@ -45,4 +45,4 @@ popup.comitEvents();
 ```
 #### and just like that you will have a basic popup.
 
-![alt text](/geekmors/popupcards/blob/master/popupcard-js-eg.jpg?raw=true "Example of popup")
+![alt text](https://github.com/geekmors/popupcards/blob/master/popupcard-js-eg.jpg?raw=true "Example of popup")
