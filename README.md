@@ -1,5 +1,6 @@
 # popupcards
 ### small light weight popup vanilla javascript plugin
+## INSTRUCTIONS
 ### first download the popupcard.js file and place it in your project folder.
 #### call the file in the head tag of your html file where you want the popup to apear eg:
 ```
@@ -43,3 +44,5 @@ popup.comitEvents();
 </script>
 ```
 #### and just like that you will have a basic popup.
+
+![alt text](/geekmors/popupcards/blob/master/popupcard-js-eg.jpg?raw=true "Example of popup")
