@@ -64,7 +64,7 @@ function popupcard(card_target,closeCard_target,showCard_target){
             opacity:0.5;
         `);
         div.setAttribute('data-id',me.id);
-        document.getElementsByTagName('body')[0].insertBefore(div,me);
+        me.parentNode().insertBefore(div,me);
         div.addEventListener('click',e=>this.exitpopup(document.getElementById(e.target.getAttribute('data-id'))));
     };
 
